@@ -1,3 +1,6 @@
+# author: Boris Harmeyer
+# https://www.hackerrank.com/b0kater
+
 cube = lambda x: x**3 # complete the lambda function 
 
 def fibonacci(n):
